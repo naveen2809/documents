@@ -1,0 +1,8 @@
+Steps so far:
+Downloaded and installed cross tool chain from Linaro
+Downloaded and built U-boot for BBB using cross tool chain
+Downloaded and build Linux Kernel for BBB using cross tool chain
+Downloaded and built Busy Box for BBB using cross tool chain
+Experimented with booting using (a) MLO (b) MLO and u-boot.img (c) MLO, u-boot.img and uEnv.txt in boot partition of SD Card
+Booted Linux on BBB from SD Card
+Booted Linux on BBB from TFTP
